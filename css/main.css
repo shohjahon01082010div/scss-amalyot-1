@@ -1,0 +1,146 @@
+ul li {
+  list-style: none;
+  display: inline-block;
+  font-size: 24px;
+  color: #fff;
+  margin-left: 30px;
+  padding-top: 50px;
+}
+.box h1 {
+  display: inline-block;
+  margin-left: 100px;
+}
+ul {
+  display: inline-block;
+  margin-left: 300px;
+}
+.header__span {
+  font-size: 24px;
+  width: 300px;
+  height: 20px;
+  border: 2px #000 solid;
+  padding: 10px 15px;
+  margin-left: 100px;
+}
+.span-1 {
+  padding: 10px 15px;
+}
+.box {
+  color: #fff;
+}
+.ul li {
+  color: #fff;
+}
+.here {
+  color: #fff;
+  width: 400px;
+  margin-left: 100px;
+  margin-top: 100px;
+}
+.header__h1 {
+  font-size: 25px;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+.img img {
+  height: 331px;
+  width: 360px;
+}
+.Special {
+  margin-left: 600px;
+  width: 450px;
+  text-align: center;
+}
+.img {
+  width: 360px;
+  padding: 10px 5px;
+  border: 1px #000 solid;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+.box__img {
+  display: flex;
+  margin-left: 150px;
+}
+.Istanbul h1 {
+  margin-left: 80px;
+}
+.Special__1 {
+  margin-left: 600px;
+  width: 450px;
+  text-align: center;
+}
+.box__img_1 {
+  display: flex;
+  margin-left: -10px;
+  margin-top: 100px;
+}
+.box__img-1 {
+  width: 262px;
+  height: 350px;
+  padding: 10px 5px;
+  border: 2px #fff solid;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+.box__1 {
+  text-align: center;
+  width: 500px;
+  margin-left: 500px;
+  margin-top: 200px;
+}
+.box__img-2 {
+  margin-left: 200px;
+  margin-top: 100px;
+}
+.p {
+  width: 410px;
+}
+.box__img_2 {
+  display: flex;
+}
+.box__img-3 {
+  width: 562px;
+  border: 2px #fff solid;
+  margin-left: 30px;
+  margin-top: 30px;
+  display: flex;
+}
+.text {
+  margin-left: 20px;
+}
+.img__stile {
+  margin-top: 60px;
+}
+.footer__img {
+  display: flex;
+  margin-left: 300px;
+  margin-top: 100px;
+}
+.footer__img-1 {
+  margin-left: -100px;
+}
+.footer__img-2 {
+  margin-left: 80px;
+}
+.footer__img-3 {
+  margin-left: 160px;
+}
+.footer__text {
+  margin-left: 100px;
+  margin-top: -30px;
+}
+.email {
+  margin-top: 50px;
+  width: 150px;
+  height: 30px;
+  text-align: center;
+  padding: 10px 1px;
+  border: 1px #c8c8c8 solid;
+}
+.main {
+  background-image: url("../img/scss amalyot.png");
+  height: 700px;
+} /*# sourceMappingURL=main.css.map */
